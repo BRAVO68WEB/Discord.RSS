@@ -27,7 +27,7 @@
     "feedparser": "^2.2.9",
     "html-to-text": "^5.1.1",
     "iconv-lite": "^0.4.24",
-    "moment": "^2.24.0",
+    "moment": "^2.29.1",
     "moment-timezone": "^0.5.27",
     "mongoose": "^5.8.2",
     "node-fetch": "^2.6.0",
