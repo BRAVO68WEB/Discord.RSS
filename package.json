@@ -22,7 +22,7 @@
     "eslint": "eslint --fix ./src"
   },
   "dependencies": {
-    "cloudscraper": "^4.3.0",
+    "cloudscraper": "^4.6.0",
     "discord.js": "github:discordjs/discord.js",
     "feedparser": "^2.2.9",
     "html-to-text": "^5.1.1",
